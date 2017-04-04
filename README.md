@@ -1,7 +1,7 @@
 ### Stream-App
-##Twitch chat and channel management
+## Twitch chat and channel management
 
 
-#Login Interface
+# Login Interface
 
 ![alt tag](http://i.imgur.com/KqFEVAu.jpg)
